@@ -1,0 +1,25 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "uuuhuuul",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "aaaah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bbbbh"
+  },
+  "keywords": [
+    "abrobra",
+    "batata",
+    "tropeiro"
+  ],
+  "author": "mandioca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
